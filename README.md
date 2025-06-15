@@ -22,4 +22,4 @@
   <img width="47" height="47" src="https://img.icons8.com/color/50/jenkins.png" alt="jenkins"/>
 </p>
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Priya_Sekar?theme=light&font=Lato)
+[LeetCode Stats](https://leetcard.jacoblin.cool/Priya_Sekar?theme=light&font=Lato)
